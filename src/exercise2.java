@@ -31,6 +31,7 @@ public class exercise2 {
         System.out.println("Hasil darab : " +jawapan);
         jawapan=no1/no2;
         System.out.println("Hasil bahagi :" +jawapan);
+        System.out.println("Hasil bahagi : sekian");
         
     }
     
